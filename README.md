@@ -24,4 +24,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Eugene Theriault](https://github.com/your-github-user) - creator and maintainer
+- [Eugene Theriault](https://github.com/ETBassist) - creator and maintainer
