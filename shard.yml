@@ -1,0 +1,17 @@
+name: hello_kemal
+version: 0.1.0
+
+authors:
+  - Eugene Theriault <hybridbassist@gmail.com>
+
+targets:
+  hello_kemal:
+    main: src/hello_kemal.cr
+
+crystal: 0.36.1
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
